@@ -1,2 +1,2 @@
 # miracle71
-open root
+open root $
